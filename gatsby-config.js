@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.ultralabs.am",
-    title: "Ultralabs Armenia",
+    siteUrl: "https://www.ultralabs.io",
+    title: "Ultralabs",
     description: "Software built by people for people",
   },
   plugins: [
@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: "https://www.ultralabs.am",
-        sitemap: "https://www.ultralabs.am/sitemap.xml",
+        host: "https://www.ultralabs.io",
+        sitemap: "https://www.ultralabs.io/sitemap.xml",
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },
