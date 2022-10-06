@@ -1,0 +1,320 @@
+backend:
+  name: git-gateway
+  # name: github
+  repo: Ultra-Labs/website
+  branch: main
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - name: porfolioList
+    label: Porfolio List
+    folder: src/markdown-pages/portfolio-list
+    create: true
+    fields:
+      - { name: title, label: Title(Exp. SimpleSell) }
+      - { name: seoTitle, label: SEO Title }
+      - { name: seoDescription, label: SEO Description }
+      - { name: path, label: Portfolio Path(Exp. /our-portfolio/DayTrail) }
+      - { name: category, label: Category }
+      - { name: heroTitle, label: Hero Title }
+      - { name: heroText, label: Hero Text, widget: text }
+      - { name: heroImg, label: Hero Image, widget: image }
+      - { name: portfolioTitle, label: Portfolio Title }
+      - { name: portfolioImg, label: Portfolio Image Home Page, widget: image }
+      - {
+          name: portfolioListImg,
+          label: Portfolio List Big Image,
+          widget: image,
+        }
+      - {
+          name: portfolioListLargeImg,
+          label: Portfolio List Large Image,
+          widget: image,
+        }
+      - {
+          name: portfolioListSmallImg,
+          label: Portfolio List Small Image,
+          widget: image,
+        }
+      - {
+          name: portfolioListExtraSmallImg,
+          label: Portfolio List Extra Small Image,
+          widget: image,
+        }
+      - { name: portfolioTextLess, label: Portfolio Text Less, widget: text }
+      - {
+          name: portfolioTextMore,
+          label: Portfolio Text More,
+          widget: text,
+          required: false,
+        }
+      - {
+          name: portfolioTextFliped,
+          label: Portfolio Text Fliped,
+          widget: text,
+          required: false,
+        }
+      - { name: type, label: Type, required: false }
+      - { name: service, label: Service, required: false }
+      - { name: client, label: Client, required: false }
+      - {
+          name: aboutProgram,
+          label: About Program,
+          widget: text,
+          required: false,
+        }
+      - label: Portfolio Section
+        name: portfolioSection
+        widget: list
+        fields:
+          - {
+              name: portfolioSectionImg,
+              label: Portfolio Section Image,
+              widget: image,
+            }
+          - { name: portfolioSectionTitle, label: Portfolio Section Title }
+          - {
+              name: portfolioSectionText,
+              label: Portfolio Section Text,
+              widget: text,
+            }
+      - {
+          name: portfolioDescription,
+          label: Portfolio Description,
+          widget: text,
+        }
+
+  - name: about
+    label: About
+    folder: src/markdown-pages/about-page
+    fields:
+      - { name: title, label: Title }
+      - { name: seoTitle, label: SEO Title }
+      - { name: seoDescription, label: SEO Description }
+      - { name: heroTitle, label: Hero Title }
+      - { name: heroText, label: Hero Text, widget: text }
+      - { name: heroImg, label: Hero Image, widget: image }
+      - { name: aboutDescription, label: About Description, widget: text }
+      - { name: serviceTitle, label: Service Title }
+      - { name: serviceDescription, label: Service Description, widget: text }
+      - label: Service List
+        name: serviceList
+        widget: list
+        fields:
+          - { name: serviceListTitle, label: Service List Title }
+          - {
+              name: serviceListDescription,
+              label: Service List Description,
+              widget: text,
+            }
+      - { name: valueTitle, label: Value Title }
+      - { name: valueDescription, label: Value Description, widget: text }
+      - label: Values List
+        name: valuesList
+        widget: list
+        fields:
+          - { name: valuesListImg, label: Values List Image, widget: image }
+          - { name: valuesListTitle, label: Values List Title }
+          - {
+              name: valuesListDescription,
+              label: Values List Description,
+              widget: text,
+            }
+      - { name: clientsTitle, label: Clients Title }
+      - { name: clientsDescription, label: Clients Description, widget: text }
+      - label: Clients List
+        name: clientsListImage
+        widget: list
+        fields:
+          - { name: valuesListImg, label: Values List Image, widget: image }
+          - {
+              name: valuesListLink,
+              label: Values List Link,
+              widget: text,
+              required: false,
+            }
+      - { name: workersTitle, label: Workers Title }
+      - { name: workersDescription, label: Workers Description, widget: text }
+      - label: Workers List
+        name: workersList
+        widget: list
+        fields:
+          - { name: workersListImg, label: Workers List Image, widget: image }
+          - { name: workersListTitle, label: Workers List Title }
+          - {
+              name: workersListDescription,
+              label: Workers List Description,
+              widget: text,
+            }
+      - { name: portfolioTitle, label: Portfolio Title }
+      - {
+          name: portfolioDescription,
+          label: Portfolio Description,
+          widget: text,
+        }
+      - { name: accomplishedTitle, label: Accomplished Title }
+      - label: Accomplished List
+        name: accomplishedList
+        widget: list
+        fields:
+          - { name: accomplishedListTitle, label: Accomplished List Title }
+          - { name: numberCount, label: Number Count }
+
+  - name: services
+    label: Services
+    folder: src/markdown-pages/services-page
+    fields:
+      - { name: title, label: Title }
+      - { name: seoTitle, label: SEO Title }
+      - { name: seoDescription, label: SEO Description }
+      - { name: heroTitle, label: Hero Title }
+      - { name: heroText, label: Hero Text, widget: text }
+      - { name: heroImg, label: Hero Image, widget: image }
+      - { name: processHeaderTitle, label: Process Header Title }
+      - label: Process List
+        name: processList
+        widget: list
+        fields:
+          - { name: processTitle, label: Process Title }
+          - { name: processText, label: Process Text, widget: text }
+          - { name: processImg, label: Process Image, widget: image }
+      - { name: servicesDescription, label: Services Description, widget: text }
+      - label: Services List
+        name: servicesList
+        widget: list
+        fields:
+          - { name: servicesTitle, label: Services Title }
+          - { name: servicesText, label: Services Text, widget: text }
+          - {
+              name: servicesListDescription,
+              label: Services List Description,
+              widget: text,
+            }
+          - { name: servicesImg, label: Services Image, widget: image }
+      - { name: contactImg, label: Contact Image, widget: image }
+      - { name: contactTitle, label: Contact Title }
+
+  - name: careers
+    label: Careers
+    folder: src/markdown-pages/careers-page
+    fields:
+      - { name: title, label: Title }
+      - { name: seoTitle, label: SEO Title }
+      - { name: seoDescription, label: SEO Description }
+      - { name: heroTitle, label: Hero Title }
+      - { name: heroText, label: Hero Text, widget: text }
+      - { name: heroImg, label: Hero Image, widget: image }
+      - { name: careersListTitile, label: Careers List Titile }
+      - {
+          name: careersListDescription,
+          label: Careers List Description,
+          widget: text,
+        }
+      - { name: careersDescription, label: Careers Description, widget: text }
+      - { name: contactImg, label: Contact Image, widget: image }
+      - { name: contactTitle, label: Contact Title }
+
+  - name: position
+    label: Job Position
+    folder: src/markdown-pages/position-page
+    create: true
+    fields:
+      - { name: title, label: Title }
+      - { name: seoTitle, label: SEO Title }
+      - { name: seoDescription, label: SEO Description }
+      - { name: heroImg, label: Hero Image, widget: image }
+      - { name: positionTitle, label: Position Title }
+      - {
+          name: positionLabel,
+          label: Position Label(Exp. senior_software_engineer),
+        }
+      - { name: positionText, label: Position Text, widget: text }
+      - { name: path, label: Position Path (Exp. /careers/web_designer) }
+      - { name: body, label: Body, widget: markdown }
+      - { name: middlewareText, label: Middleware Text, widget: text }
+      - { name: contactImg, label: Contact Image, widget: image }
+      - { name: contactTitle, label: Contact Title }
+
+      - label: More Details
+        name: moreDetails
+        widget: list
+        fields:
+          - { name: moreTitle, label: More Title }
+          - label: More List Text
+            name: moreListText
+            widget: list
+            fields:
+              - { name: moreText, label: More Text, widget: text }
+
+  - name: home-page
+    label: Home
+    folder: src/markdown-pages/home-page
+    fields:
+      - { name: title, label: Title }
+      - { name: seoTitle, label: SEO Title }
+      - { name: seoDescription, label: SEO Description }
+      - { name: heroTitle, label: Hero Title }
+      - { name: heroText, label: Hero Text, widget: text }
+      - { name: heroImg, label: Hero Image, widget: image }
+      - { name: aboutTitle, label: About Title }
+      - { name: aboutText, label: About Text, widget: text }
+      - { name: aboutImg, label: About Image, widget: image }
+      - { name: portfolioBlockTitle, label: Portfolio Block Title }
+      - { name: portfolioBlockText, label: Portfolio Block Text, widget: text }
+      - { name: serviceTitle, label: Service Title }
+      - { name: serviceText, label: Service Text, widget: text }
+      - { name: serviceImg, label: Service Image, widget: image }
+      - label: Service List
+        name: serviceList
+        widget: list
+        fields:
+          - { name: serviceListTitle, label: Service List Title }
+          - { name: serviceListText, label: Service List Text, widget: text }
+      - { name: canvasText, label: Canvas Text }
+
+      - { name: canvasImg, label: Canvas Image, widget: image }
+      - { name: ourTitle, label: Our Title }
+      - { name: ourText, label: Our Text, widget: text }
+      - { name: ourQuote, label: Our Quote, widget: text }
+      - { name: ourImg, label: Our Image, widget: image }
+      - { name: contactImg, label: Contact Image, widget: image }
+      - { name: contactTitle, label: Contact Title }
+
+  - name: contact
+    label: Contact
+    folder: src/markdown-pages/contact-page
+    fields:
+      - { name: title, label: Title }
+      - { name: seoTitle, label: SEO Title }
+      - { name: seoDescription, label: SEO Description }
+      - { name: heroTitle, label: Hero Title }
+      - { name: heroText, label: Hero Text, widget: text }
+      - { name: heroImg, label: Hero Image, widget: image }
+      - { name: location, label: Location }
+      - { name: phoneNumber, label: Phone Number }
+      - { name: email, label: Email, required: false }
+      - { name: contactTitle, label: Contact Title }
+
+  - name: portfolio
+    label: Portfolio
+    folder: src/markdown-pages/portfolio-page
+    fields:
+      - { name: title, label: Title }
+      - { name: seoTitle, label: SEO Title }
+      - { name: seoDescription, label: SEO Description }
+      - { name: heroTitle, label: Hero Title }
+      - { name: heroText, label: Hero Text, widget: text }
+      - { name: heroImg, label: Hero Image, widget: image }
+      - { name: contactImg, label: Contact Image, widget: image }
+      - { name: contactTitle, label: Contact Title }
+      - { name: textDescription, label: Text Description, widget: text }
+
+  - name: logo
+    label: Logo
+    folder: src/markdown-pages/logo
+    fields:
+      - { name: title, label: Title }
+      - { name: headerLogoImg, label: Header Logo Image, widget: image }
+      - { name: footerLogoImg, label: Footer Logo Image, widget: image }
