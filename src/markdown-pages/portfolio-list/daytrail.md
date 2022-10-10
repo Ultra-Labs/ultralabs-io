@@ -11,7 +11,7 @@ heroTitle: DayTrail
 heroText: "DayTrail is the one-stop-shop for all of kinds of recreational
   vehicle rental needs. "
 heroImg: /assets/dt.webp
-portfolioTitle: Daytrail
+portfolioTitle: DayTrail
 portfolioImg: /assets/group-419.webp
 portfolioListImg: /assets/unsplash_caz0osmpl58.webp
 portfolioListLargeImg: /assets/daytrail-1024.webp
