@@ -10,13 +10,15 @@ heroText: We don’t just create interfaces. We build solutions that make people
   lives easier. Life is too short to spend it using the wrong products.
 heroImg: /assets/hero-2-1920.webp
 aboutTitle: Our mission
-aboutText: "We are a team of people passionate about the work we do.
-  Our mission is to build products that enable people to save time and energy for the things in life that really matter."
-aboutImg: /assets/about_us.jpg
+aboutText: We are a team of people passionate about the work we do. Our mission
+  is to build products that enable people to save time and energy for the things
+  in life that really matter.
+aboutImg: /assets/abouthome.png
 portfolioBlockTitle: Our Portfolio
 portfolioBlockText: Here’s what we have built so far.
 serviceTitle: Here’s what we deliver
-serviceText: We have brought together researchers, makers & business developers to create a new standard of startup.
+serviceText: We have brought together researchers, makers & business developers
+  to create a new standard of startup.
 serviceImg: /assets/home-service.webp
 canvasText: Explore, build, innovate, repeat.
 canvasImg: /assets/swirl-1920.webp
