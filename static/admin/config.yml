@@ -17,6 +17,7 @@ collections:
       - { name: seoTitle, label: SEO Title }
       - { name: seoDescription, label: SEO Description }
       - { name: path, label: Portfolio Path(Exp. /our-portfolio/DayTrail) }
+      - { name: url, required: false, label: Find me in config.yml :)}
       - { name: category, label: Category }
       - { name: heroTitle, label: Hero Title }
       - { name: heroText, label: Hero Text, widget: text }
