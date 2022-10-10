@@ -23,7 +23,7 @@ serviceImg: /assets/home-service.webp
 canvasText: Explore, build, innovate, repeat.
 canvasImg: /assets/swirl-1920.webp
 ourTitle: Our people
-contactImg: /assets/rectangle-356.webp
+contactImg: /assets/contact_us_form.jpg
 ourSmallImg: /assets/rectangle-346.webp
 aboutSmallImg: /assets/576-home-page.webp
 serviceList:
