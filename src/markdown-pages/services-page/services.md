@@ -9,10 +9,8 @@ heroImg: /assets/rectangle-68.webp
 processHeaderTitle: The process
 processList:
   - processTitle: Research
-    processText: We partner with our clients to deliver the most elegant
-      implementations to their ideas. In order to do that we help them identify
-      and define those ideas and come up with the most competitive alternatives
-      available.
+    processText: We partner with clients to deliver the most elegant implementation of their ideas.
+      First, we help them identify and define their idea. Then, we come up with the most competitive alternatives available.
     processImg: /assets/rectangle-312.webp
   - processText: Ideation follows discovery. We help ideas move from the abstract into concrete, viable solutions.
     processTitle: Develop

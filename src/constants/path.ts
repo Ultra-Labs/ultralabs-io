@@ -12,10 +12,6 @@ export const mesnuList = [
     value: "about-us",
   },
   {
-    name: "Careers",
-    value: "careers",
-  },
-  {
     name: "Contact us",
     value: "contact-us",
   },
