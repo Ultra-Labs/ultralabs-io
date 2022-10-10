@@ -10,6 +10,7 @@ type PortfolioItemProps = {
 };
 const PortfolioItem: FC<PortfolioItemProps> = ({
   portfolioTitle,
+  url,
   path,
   portfolioTextMore,
   portfolioListImg,
@@ -17,23 +18,38 @@ const PortfolioItem: FC<PortfolioItemProps> = ({
   return (
     <li key={portfolioTitle} className="portfolio-item">
       <div className="container">
-        <Link
-          state={{ prev: true }}
-          to={path}
-          className="portfolio-section"
-          title={portfolioTitle}
-        >
-          <GatsbyImage
-            alt={portfolioTitle}
-            objectFit="cover"
-            image={getImage(portfolioListImg)}
-            loading="lazy"
-          />
+      {url ? (
+          <a
+            href={url}
+            className="portfolio-section"
+            title={portfolioTitle}
+          >
+          <GatsbyImage alt={portfolioTitle} objectFit="cover" image={getImage(portfolioListImg)} loading="lazy" />
           <div className="portfolio-desc">
-            <h3>{portfolioTitle}</h3>
-            <h4 className="body2">{portfolioTextMore}</h4>
-          </div>
-        </Link>
+                            <h3>{portfolioTitle}</h3>
+                            <h4 className="body2">{portfolioTextMore}</h4>
+                          </div>
+          </a>
+      ) : (
+      <Link
+                state={{ prev: true }}
+                to={path}
+                className="portfolio-section"
+                title={portfolioTitle}
+              >
+                <GatsbyImage
+                  alt={portfolioTitle}
+                  objectFit="cover"
+                  image={getImage(portfolioListImg)}
+                  loading="lazy"
+                />
+                <div className="portfolio-desc">
+                  <h3>{portfolioTitle}</h3>
+                  <h4 className="body2">{portfolioTextMore}</h4>
+                </div>
+              </Link>
+      )}
+
       </div>
     </li>
   );
