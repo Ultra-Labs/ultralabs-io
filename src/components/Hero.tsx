@@ -26,7 +26,9 @@ const Hero: FC<THeroData> = ({
           <div className="hero-content">
             <div className="hero-left">
               <h1>{heroTitle}</h1>
-              <p className="hero-text body1">{heroText}</p>
+              {heroText && (
+                <p className="hero-text body1">{heroText}</p>
+              )}
               {mainURL && (
                 <Link to={mainURL} className="hero-link h3">
                   {mainURLTitle}

@@ -41,7 +41,7 @@ const OurServices: FC = () => {
           title={servicesDescription}
           typography="h2"
           variant="dark"
-          link="/our-portfolio/"
+//          link="/our-portfolio/"
           linkTitle="See how we do that"
         />
       </OurServiceStyle>

@@ -97,34 +97,6 @@ const OurPortfolio: FC = () => {
           filteredData={filteredData}
         />
 
-        {!!clientsListImage.length && (
-          <div className="portfolio-block">
-            <div className="container">
-              <h2>{clientsTitle}</h2>
-              <p className="body1">{clientsDescription}</p>
-
-              <Carousel settings={clientSlider}>
-                {clientsListImage.map((item) => (
-                  <div key={item.valuesListImg} className="carousel-item">
-                    <a
-                      href={item.valuesListLink}
-                      target="_blank"
-                      title="click here"
-                      rel="noopener noreferrer"
-                    >
-                      <GatsbyImage
-                        image={getImage(item.valuesListImg)}
-                        alt={clientsTitle}
-                        loading="lazy"
-                      />
-                    </a>
-                  </div>
-                ))}
-              </Carousel>
-            </div>
-          </div>
-        )}
-
         <Description
           variant="dark"
           title={textDescription}
