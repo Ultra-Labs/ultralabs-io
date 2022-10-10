@@ -8,29 +8,53 @@ type PortfolioItemProps = {
 };
 
 const PortfolioItem: FC<PortfolioItemProps> = ({ data }) => {
-  const { portfolioTitle, path, portfolioImg, portfolioTextMore } = data;
+  const { portfolioTitle, path, url, portfolioImg, portfolioTextMore } = data;
   return (
     <li className="portfolio-item">
-      <Link
-        state={{ prev: true }}
-        to={path}
-        className="portfolio-section w-100"
-      >
-        <div className="container">
-          <div className="portfolio-container">
-            <GatsbyImage
-              alt={portfolioTitle}
-              image={getImage(portfolioImg)}
-              className="portfolio-image"
-              loading="lazy"
-            />
-            <div className="portfolio-desc">
-              <h3>{portfolioTitle}</h3>
-              <h4 className="body2">{portfolioTextMore}</h4>
-            </div>
-          </div>
-        </div>
-      </Link>
+     {url ? (
+        <a
+             href={url}
+             target="_blank"
+             className="portfolio-section w-100"
+           >
+             <div className="container">
+               <div className="portfolio-container">
+                 <GatsbyImage
+                   alt={portfolioTitle}
+                   image={getImage(portfolioImg)}
+                   className="portfolio-image"
+                   loading="lazy"
+                 />
+                 <div className="portfolio-desc">
+                   <h3>{portfolioTitle}</h3>
+                   <h4 className="body2">{portfolioTextMore}</h4>
+                 </div>
+               </div>
+             </div>
+           </a>
+     ): (
+          <Link
+             state={{ prev: true }}
+             to={path}
+             className="portfolio-section w-100"
+           >
+             <div className="container">
+               <div className="portfolio-container">
+                 <GatsbyImage
+                   alt={portfolioTitle}
+                   image={getImage(portfolioImg)}
+                   className="portfolio-image"
+                   loading="lazy"
+                 />
+                 <div className="portfolio-desc">
+                   <h3>{portfolioTitle}</h3>
+                   <h4 className="body2">{portfolioTextMore}</h4>
+                 </div>
+               </div>
+             </div>
+           </Link>
+     )}
+
     </li>
   );
 };

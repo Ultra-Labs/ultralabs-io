@@ -6,6 +6,7 @@ title: DayTrail
 seoTitle: Ultralabs
 seoDescription: Ultralabs
 path: /our-portfolio/Daytrail
+url: https://daytrail.com/
 category: web
 heroTitle: DayTrail
 heroText: "DayTrail is the one-stop-shop for all of kinds of recreational
