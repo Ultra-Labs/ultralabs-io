@@ -14,26 +14,21 @@ processList:
       and define those ideas and come up with the most competitive alternatives
       available.
     processImg: /assets/rectangle-312.webp
-  - processText: Ideation is what follows the discovery. We help ideas take shape
-      out of the cloud of abstraction and prepare them for the final stages of
-      crafting real-life and viable solutions.
+  - processText: Ideation follows discovery. We help ideas move from the abstract into concrete, viable solutions.
     processTitle: Develop
     processImg: /assets/rectangle-311.webp
-  - processText: “Designed by people for people” is the definition of our products.
-      Whatever decisions we make in all the stages of design, taking care of
-      people is at the core of those.
+  - processText: “Designed by people, for people” is the definition of our brand.
+      Whatever decisions are made throughout the stages of design, we center people in each and every one.
     processTitle: Build
     processImg: /assets/rectangle-3109.webp
-  - processText: "While coming up with bright solutions to common problems we also
-      make sure to align the technology and the modern standards of life with
-      those solutions. Thus the end results come to life as modern, disruptive
-      and amazingly easy-to-use forms. "
+  - processText: While coming up with bright solutions to common problems, we align technology with everyday life.
+      The end result is something both disruptive and simple to use.
     processTitle: Scale
     processImg: /assets/rectangle-310-1-.webp
 contactImg: /assets/rectangle-356.webp
 heroExtraSmallImg: /assets/servicebanner.png
 heroSmallImg: /assets/servicebanner.png
-servicesDescription: We embrace challenges and never fear to transform.
+servicesDescription: “If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you.” — Steve Jobs
 servicesList:
   - servicesText: Product design
     servicesTitle: Creative
@@ -43,23 +38,20 @@ servicesList:
     servicesImg: /assets/rectangle-430.webp
   - servicesText: Enterprise
     servicesTitle: Robust
-    servicesListDescription: Crafting for the web isn’t easy yet great challenges
-      are what makes great products. This is the idea behind our web
-      development. No matter how complex a solution may be our team comes up
-      with the most robust tech solutions to those.
+    servicesListDescription: Crafting for the web is not easy, yet great challenges are what make great products.
+      This is the idea behind our web development. No matter how complex a problem may be,
+      our team comes up with the most robust tech solutions.
     servicesImg: /assets/rectangle-432.webp
   - servicesTitle: Modern
     servicesText: Mobile
-    servicesListDescription: While web products solve problems for enterprises
-      there’s a whole different story for the mobile products. Still, designing
-      and developing for mobile world is something we are most passionate about.
+    servicesListDescription: While web products solve problems for web enterprises,
+      a whole different story unfolds on mobile devices. Still, designing and developing for
+      the mobile world is something we are very passionate about.
     servicesImg: /assets/rectangle-436.webp
   - servicesTitle: Permanent
     servicesText: Support and maintenance
-    servicesListDescription: None of our products stop being supported at any point
-      of their evolvement and life. After successfully deliving them we continue
-      to improve, to learn and to make them even more adapting and suitable for
-      people to use.
+    servicesListDescription: We support our products throughout every stage of their evolution.
+      Even after successful delivery, we will continue to improve and adapt.
     servicesImg: /assets/rectangle-438.webp
 contactTitle: Contact us
 ---

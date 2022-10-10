@@ -28,22 +28,19 @@ ourSmallImg: /assets/rectangle-346.webp
 aboutSmallImg: /assets/576-home-page.webp
 serviceList:
   - serviceListTitle: Research
-    serviceListText: From identifying market opportunities to conducting in-depth
-      research to understand the gaps in the market, we ensure to have a no-fail
-      background for your success.
+    serviceListText: We identify market opportunities and conduct in-depth
+      research to ensure a no-fail path to your success.
   - serviceListTitle: Develop
-    serviceListText: You won’t have to wait for a lifetime to see the results of our
-      work. With our iterative approach, rapid prototyping and relevant market
-      feedback, we’ll be delivering excellence in no time.
+    serviceListText: You do not have to wait a lifetime to see the results of our work.
+      With our iterative approach, rapid prototyping, and relevant market feedback,
+      we will be delivering excellence in no time.
   - serviceListTitle: Build
-    serviceListText: We’ll be with you at every stage of your development, from
-      defining your product’s infrastructure to building up a disruptive team of
-      professionals to get it sorted.
+    serviceListText: We will be with you at every stage of development, from defining your
+      product’s infrastructure to building a disruptive team of professionals to get it sorted.
   - serviceListTitle: Scale
-    serviceListText: We help you build a great product but we don’t just stop
-      there.  With us  you’ll also find traction, grow your product, boost value
-      of your company, and evolve industry.
-ourQuote: "If you ever happen to have a challenge we’re there to solve it. "
+    serviceListText: We help you build a great product and we don’t just stop there.
+      With us, you will grow your product, get traction, and boost the value of your company.
+ourQuote: “Success usually comes to those who are too busy looking for it.” — Henry David Thoreau
 heroExtraSmallImg: /assets/hero-1920.webp
 ourLargeImg: /assets/1024-home-page-1.webp
 canvasSmallImg: /assets/swirl-576.webp

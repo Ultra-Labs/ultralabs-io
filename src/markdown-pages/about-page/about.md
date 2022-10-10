@@ -17,25 +17,21 @@ serviceDescription: "The formula of delivering products is pretty simple at
   Ultra: it’s a place where talent meets care and discipline. "
 serviceList:
   - serviceListTitle: Research
-    serviceListDescription: We can’t suggest a solution without defining the
-      problem. That’s what comes first in our product development lifecycle.
+    serviceListDescription: Before we suggest solutions, we start by defining the problem.
+      The first step of our product development lifecycle is researching the issues.
   - serviceListTitle: Ideate
-    serviceListDescription: Ideas are the beginning of any great solution. The
-      brighter the options the better the end results will be.
+    serviceListDescription: Ideas are the precursor to any great solution.
+      The brighter the options, the better the end results.
   - serviceListTitle: Build
-    serviceListDescription: The constantly evolving tech trends require an equal
-      response. So that’s what we’re up to for every project.
+    serviceListDescription: As we build out the product, a constantly evolving tech industry
+      requires us to be adaptable and inventive.  We evolve alongside every product.
   - serviceListTitle: Scale
-    serviceListDescription:
-      It’s not good enough if it’s not scalable. We make sure
-      to create solid solutions that are yet flexible enough to scale.
+    serviceListDescription: If a product is not scalable, it won’t work.
+      We make sure to create solid solutions that are flexible enough to scale.
 valueTitle: Our values
-valueDescription: While there are many cornerstones for our philosophy,
-  transparency is what underlies it. We believe in and create equal opporunities
-  for everyone always making sure that every team member has a chance to speak
-  out, to participate and take pride in every single aspect of our work. We
-  encourage open and honest communication between our team members and build our
-  process on trust and stability on every step.
+valueDescription: While there are many cornerstones of our philosophy, transparency is our foundation.
+      We believe in creating equal opportunities for everyone and ensuring every team member is heard and feels valued.
+      We encourage open and honest communication and work to build trust between all team members.
 valuesList:
   - valuesListImg: /assets/product1.png
     valuesListTitle: Equality
@@ -44,18 +40,15 @@ valuesList:
       and more often than not, succeed together.
   - valuesListTitle: Quality
     valuesListDescription: >
-      Better go slow but right than speed up in the wrong direction. We're not
-      after speed, we're after quality.
+      Better to go slow in the right direction, than to speed up in the wrong one. We’re not after speed, we’re after quality.
     valuesListImg: /assets/product2.png
   - valuesListImg: /assets/product3.png
     valuesListTitle: Problem-solving
     valuesListDescription:
-      We don't just do our jobs. The easiest way to escape the
-      problem is to solve it so that’s what we do for people  day in day out.
+      The easiest way to get over a problem is to just solve it. That’s what we do for our people, day in and day out.
   - valuesListTitle: Customer care
     valuesListDescription: >
-      We're helping our clients make people's lives easier because every minute
-      lost on a faulty product could have been spent with loved ones.
+      We treat our clients like they're our own family because we believe in the power of positive relationships and trust.
     valuesListImg: /assets/product4.png
 clientsTitle: Our partners
 clientsDescription: The names below include some of our best friends.

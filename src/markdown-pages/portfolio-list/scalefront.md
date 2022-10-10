@@ -17,7 +17,7 @@ portfolioListImg: /assets/1920-1-sf.webp
 portfolioListLargeImg: /assets/1024-1-sf.webp
 portfolioListSmallImg: /assets/576-1-sf.webp
 portfolioListExtraSmallImg: /assets/390-1-sf.webp
-portfolioTextLess: Innovative software paired with dedicated Sales Assistants.
+portfolioTextLess: Transparent recruitment platform trusted by experts.
 portfolioTextMore: ScaleFront helps clients make confident and validated
   decisions by linking them with professionals to gather superior knowledge and
   insights.

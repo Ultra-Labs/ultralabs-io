@@ -25,7 +25,7 @@ const Footer: FC<FooterProps> = () => {
     <FooterStyle>
       <div className="container">
         <div>
-          <Link to="/" className="logo" title="Ultralabs Armenia">
+          <Link to="/" className="logo" title="Ultralabs">
             <GatsbyImage
               image={getImage(footerLogoImg)}
               alt="headerLogoImg"
@@ -116,27 +116,14 @@ const Footer: FC<FooterProps> = () => {
         </div>
         <div className="copyright">
           <p>
-            © {new Date().getFullYear()}. Ultra Labs Armenia. All rights
+            © {new Date().getFullYear()}. Ultra Labs LLC. All rights
             reserved.
           </p>
           <div className="shared_block">
             <ul className="d-flex">
               <li>
                 <a
-                  href="https://www.facebook.com/ultra.armenia/"
-                  target="_blank"
-                  title="facebook"
-                >
-                  <Icon
-                    icon="facebook2"
-                    size={24}
-                    color={`${theme.lightColor}`}
-                  />
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.linkedin.com/company/ultralabs-am/mycompany/"
+                  href="https://www.linkedin.com/company/ultralabs-io/"
                   target="_blank"
                   title="linkedin"
                 >
