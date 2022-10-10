@@ -114,27 +114,6 @@ const AboutUs: FC<AboutUsProps> = () => {
 
         {/* {!!workersList.length && <WorkersList {...workersData} />} */}
 
-        {!!portfolioListData.length && (
-          <div className="portfolio-block">
-            <div className="container">
-              <h2>{portfolioTitle}</h2>
-              <p className="body1">{portfolioDescription}</p>
-
-              <Carousel settings={portfolioSlider}>
-                {portfolioListData.map((item) => (
-                  <PortfolioItem
-                    className="caroucel-item"
-                    key={item.path}
-                    data={item}
-                    tag="h3"
-                    titleClassName="h3"
-                  />
-                ))}
-              </Carousel>
-            </div>
-          </div>
-        )}
-
         {!!accomplishedList.length && (
           <CompletedList
             accomplishedTitle={accomplishedTitle}

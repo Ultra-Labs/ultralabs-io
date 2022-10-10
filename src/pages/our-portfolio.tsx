@@ -101,7 +101,7 @@ const OurPortfolio: FC = () => {
           variant="dark"
           title={textDescription}
           typography="h2"
-          link="/our-services/"
+//          link="/our-services/"
           linkTitle="See our services"
         />
       </OurPortfolioStyle>
