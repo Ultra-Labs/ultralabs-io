@@ -1,16 +1,17 @@
 ---
-title: Flipride
+portfolioTextFliped: FlipRide was founded on the idea that there had to be a
+  better way to connect dealers with interested and committed sellers and
+  buyers.
+heroLargeImg: /assets/1024-fr.webp
+title: FlipRide
 seoTitle: Ultralabs
-seoDescription: Ultralabs Armenia
+seoDescription: Ultralabs
 path: /our-portfolio/Flipride
 category: web
 heroTitle: Flipride
 heroText: Transforming Digital for Auto
 heroImg: /assets/banner-imagefr.webp
-heroLargeImg: /assets/1024-fr.webp
-heroSmallImg: /assets/576-fr.webp
-heroExtraSmallImg: /assets/360-fr.webp
-portfolioTitle: Flipride
+portfolioTitle: FlipRide
 portfolioImg: /assets/group-418.webp
 portfolioListImg: /assets/unsplash_v6dyupmgims.webp
 portfolioListLargeImg: /assets/flipride-1024.webp
@@ -20,12 +21,10 @@ portfolioTextLess: Transforming how car owners sell cars
 portfolioTextMore: FlipRide was founded on the idea that there had to be a
   better way to connect dealers with interested and committed sellers and
   buyers.
-portfolioTextFliped: FlipRide was founded on the idea that there had to be a
-  better way to connect dealers with interested and committed sellers and
-  buyers.
-type: "Type: Application design"
 service: "Services: Design and development"
-client: "Client: Flipride"
+client: "Client: FlipRide"
+heroExtraSmallImg: /assets/360-fr.webp
+type: "Type: Application design"
 aboutProgram: FlipRide was founded on the idea that there had to be a better way
   to connect dealers with interested and committed sellers and buyers. In a
   market where inventory matters, access to high-quality vehicles is critical,
@@ -36,8 +35,7 @@ aboutProgram: FlipRide was founded on the idea that there had to be a better way
 portfolioSection:
   - portfolioSectionImg: /assets/rectangle-118fr.webp
     portfolioSectionTitle: The challenge
-    portfolioSectionText:
-      There has never been more competition in auto sales than
+    portfolioSectionText: There has never been more competition in auto sales than
       there is now. Much of that competition is coming from online. FlipRide
       Dealer Management Platform provides an end-to-end solution for car
       dealerships of all sizes.
@@ -66,4 +64,5 @@ portfolioSection:
     portfolioSectionImg: /assets/rectangle-311fr.webp
 portfolioDescription: If you’re looking for non-standard solutions to standard
   problems, you’ve come to the right place!
+heroSmallImg: /assets/576-fr.webp
 ---

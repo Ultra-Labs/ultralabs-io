@@ -1,16 +1,16 @@
 ---
-title: Daytrail
+portfolioTextFliped: DayTrail is the one-stop-shop for all of kinds of
+  recreational vehicle rental needs. Insurance-backed and adventure-packed!
+heroLargeImg: /assets/1024-dt.webp
+title: DayTrail
 seoTitle: Ultralabs
-seoDescription: Ultralabs Armenia
+seoDescription: Ultralabs
 path: /our-portfolio/Daytrail
 category: web
-heroTitle: Daytrail
+heroTitle: DayTrail
 heroText: "DayTrail is the one-stop-shop for all of kinds of recreational
   vehicle rental needs. "
 heroImg: /assets/dt.webp
-heroLargeImg: /assets/1024-dt.webp
-heroSmallImg: /assets/576-dt.webp
-heroExtraSmallImg: /assets/360-dt.webp
 portfolioTitle: Daytrail
 portfolioImg: /assets/group-419.webp
 portfolioListImg: /assets/unsplash_caz0osmpl58.webp
@@ -21,11 +21,10 @@ portfolioTextLess: "DayTrail is the one-stop-shop for all of kinds of
   recreational vehicle rental needs. "
 portfolioTextMore: DayTrail is the one-stop-shop for all of kinds of
   recreational vehicle rental needs. Insurance-backed and adventure-packed!
-portfolioTextFliped: DayTrail is the one-stop-shop for all of kinds of
-  recreational vehicle rental needs. Insurance-backed and adventure-packed!
-type: "Type: Application design"
 service: "Services: Design and development"
 client: "Client: DayTrail"
+heroExtraSmallImg: /assets/360-dt.webp
+type: "Type: Application design"
 aboutProgram: DayTrail is the one-stop-shop for all of kinds of recreational
   vehicle rental needs. Insurance-backed and adventure-packed! Like all P2P
   rental platforms they knew they had to make a system that owners would feel
@@ -35,8 +34,7 @@ aboutProgram: DayTrail is the one-stop-shop for all of kinds of recreational
 portfolioSection:
   - portfolioSectionImg: /assets/rectangle-1182.webp
     portfolioSectionTitle: The challenge
-    portfolioSectionText:
-      " While talking with friends and family people are often
+    portfolioSectionText: " While talking with friends and family people are often
       hearing of recreational vehicle owners whose vehicles sat unused for weeks
       at a time, with monthly payments, storage, and all the negatives that come
       along with having a vehicle sit unused. On the other hand, everyone has
@@ -46,8 +44,7 @@ portfolioSection:
       underlying concerns resolved, the DayTrail team came together to create an
       easy-to-use platform that matches the right owners with the right
       renters."
-  - portfolioSectionText:
-      We’ve developed a platform with the help of which owners
+  - portfolioSectionText: We’ve developed a platform with the help of which owners
       list quality recreational vehicles online, and renters browse for the
       perfect recreational vehicle for their next outdoor adventure. They just
       select the location, vehicle preference, and date to find the perfect fit.
@@ -63,12 +60,12 @@ portfolioSection:
       recreational vehicle work for them.
     portfolioSectionTitle: List. Approve. Rest. Earn
     portfolioSectionImg: /assets/rectangle-22.webp
-  - portfolioSectionText:
-      With the help of  DayTrail a perfect win-win relationship
+  - portfolioSectionText: With the help of  DayTrail a perfect win-win relationship
       has been established between the car owners and people who’re out for an
       adventure! It’s fast, secure and, most importantly, safe.
     portfolioSectionTitle: The results
     portfolioSectionImg: /assets/rectangle-3211.webp
 portfolioDescription: If you’re looking for non-standard solutions to standard
   problems, you’ve come to the right place!
+heroSmallImg: /assets/576-dt.webp
 ---
