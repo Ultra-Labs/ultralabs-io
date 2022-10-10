@@ -5,7 +5,7 @@ heroLargeImg: /assets/1024-dt.webp
 title: DayTrail
 seoTitle: Ultralabs
 seoDescription: Ultralabs
-path: https://daytrail.com/
+path: /our-portfolio/Daytrail
 category: web
 heroTitle: DayTrail
 heroText: "DayTrail is the one-stop-shop for all of kinds of recreational
