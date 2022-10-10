@@ -13,7 +13,7 @@ aboutTitle: Our mission
 aboutText: "We are a team of people passionate about the work that we do. Our
   mission is to build products that enable people to save time and for the
   really important things in life. "
-aboutImg: /assets/rectangle-246.webp
+aboutImg: /assets/about_us.jpg
 portfolioBlockTitle: Our Portfolio
 portfolioBlockText: Here’s what we have built so far.
 serviceTitle: Here’s what we deliver
@@ -28,19 +28,22 @@ ourSmallImg: /assets/rectangle-346.webp
 aboutSmallImg: /assets/576-home-page.webp
 serviceList:
   - serviceListTitle: Research
-    serviceListText: We identify market opportunities and conduct in-depth
-      research to ensure a no-fail path to your success.
+    serviceListText: We identify market opportunities and conduct in-depth research
+      to ensure a no-fail path to your success.
   - serviceListTitle: Develop
-    serviceListText: You do not have to wait a lifetime to see the results of our work.
-      With our iterative approach, rapid prototyping, and relevant market feedback,
-      we will be delivering excellence in no time.
+    serviceListText: You do not have to wait a lifetime to see the results of our
+      work. With our iterative approach, rapid prototyping, and relevant market
+      feedback, we will be delivering excellence in no time.
   - serviceListTitle: Build
-    serviceListText: We will be with you at every stage of development, from defining your
-      product’s infrastructure to building a disruptive team of professionals to get it sorted.
+    serviceListText: We will be with you at every stage of development, from
+      defining your product’s infrastructure to building a disruptive team of
+      professionals to get it sorted.
   - serviceListTitle: Scale
     serviceListText: We help you build a great product and we don’t just stop there.
-      With us, you will grow your product, get traction, and boost the value of your company.
-ourQuote: “Success usually comes to those who are too busy looking for it.” — Henry David Thoreau
+      With us, you will grow your product, get traction, and boost the value of
+      your company.
+ourQuote: “Success usually comes to those who are too busy looking for it.” —
+  Henry David Thoreau
 heroExtraSmallImg: /assets/hero-1920.webp
 ourLargeImg: /assets/1024-home-page-1.webp
 canvasSmallImg: /assets/swirl-576.webp
