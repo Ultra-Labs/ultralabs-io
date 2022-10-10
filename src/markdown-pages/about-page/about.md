@@ -5,25 +5,6 @@ aboutDescription: We’re partnering with product founders to come up with the
   most revolutionizing and quality products. We’re helping them improve
   customers’ lives by offering them agile and flexible solutions to ensure that
   they don’t spend more time on daily activities than they’re supposed to.
-valuesList:
-  - valuesListImg: /assets/product1.png
-    valuesListTitle: Equality
-    valuesListDescription: No one is a know-it-all. We learn together, fail together
-      and more often than not, succeed together.
-  - valuesListTitle: Quality
-    valuesListDescription: >
-      Better go slow but right than speed up in the wrong direction. We're not
-      after speed, we're after quality.
-    valuesListImg: /assets/product2.png
-  - valuesListImg: /assets/product3.png
-    valuesListTitle: Problem-solving
-    valuesListDescription: We don't just do our jobs. The easiest way to escape the
-      problem is to solve it so that’s what we do for people  day in day out.
-  - valuesListTitle: Customer care
-    valuesListDescription: >
-      We're helping our clients make people's lives easier because every minute
-      lost on a faulty product could have been spent with loved ones.
-    valuesListImg: /assets/product4.png
 accomplishedList:
   - accomplishedListTitle: Lines of code written since 2020
     numberCount: "300000"
