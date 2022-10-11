@@ -5,7 +5,6 @@ heroLargeImg: /assets/1024-dt.webp
 title: DayTrail
 seoTitle: Ultralabs
 seoDescription: Ultralabs
-path: /our-portfolio/Daytrail
 url: https://daytrail.com/
 category: web
 heroTitle: DayTrail

@@ -8,7 +8,7 @@ type PortfolioItemProps = {
 };
 
 const PortfolioItem: FC<PortfolioItemProps> = ({ data }) => {
-  const { portfolioTitle, path, url, portfolioImg, portfolioTextMore } = data;
+  const { portfolioTitle, url, portfolioImg, portfolioTextMore } = data;
   return (
     <li className='portfolio-item'>
       {url ? (

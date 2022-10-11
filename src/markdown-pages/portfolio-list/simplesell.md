@@ -2,7 +2,6 @@
 title: SimpleSell
 seoTitle: Ultralabs
 seoDescription: Ultralabs Armenia
-path: /our-portfolio/SimpleSell
 url: https://simplesell.com/
 category: web
 heroTitle: SimpleSell

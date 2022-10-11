@@ -1,7 +1,7 @@
 import { ImageDataLike } from 'gatsby-plugin-image';
 
 export type TFilterDataItem<T> = {
-  path?: string;
+  url: string;
   data?: T;
 };
 
@@ -20,7 +20,6 @@ export type TPortfolioData = {
 
 export type TPortfolioHomeData = {
   portfolioTitle: string;
-  path: string;
   portfolioImg: ImageDataLike;
   portfolioTextMore: string;
   portfolioTextFliped?: string;

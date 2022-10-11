@@ -6,7 +6,6 @@ heroLargeImg: /assets/1024-fr.webp
 title: FlipRide
 seoTitle: Ultralabs
 seoDescription: Ultralabs
-path: /our-portfolio/Flipride
 url: https://dealers.flipride.com/
 category: web
 heroTitle: Flipride

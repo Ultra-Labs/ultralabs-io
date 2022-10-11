@@ -4,14 +4,13 @@ import { Link } from 'gatsby';
 
 type PortfolioItemProps = {
   portfolioTitle: string;
-  path: string;
   portfolioTextMore: string;
   portfolioListImg: ImageDataLike;
+  url: string;
 };
 const PortfolioItem: FC<PortfolioItemProps> = ({
   portfolioTitle,
   url,
-  path,
   portfolioTextMore,
   portfolioListImg,
 }) => {

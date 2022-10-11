@@ -6,7 +6,6 @@ heroLargeImg: /assets/1024-opp.webp
 title: OurPetPolicy
 seoTitle: Ultralabs
 seoDescription: Ultralabs Armenia
-path: https://landlordtech.com/
 url: https://landlordtech.com/
 category: Application design
 heroTitle: OurPetPolicy

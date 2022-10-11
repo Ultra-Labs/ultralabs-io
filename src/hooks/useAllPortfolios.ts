@@ -12,7 +12,6 @@ export const useAllPortfolios = () => {
               title
               seoTitle
               seoDescription
-              path
               url
               category
               heroTitle

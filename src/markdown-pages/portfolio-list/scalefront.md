@@ -2,7 +2,6 @@
 title: ScaleFront
 seoTitle: Ultralabs
 seoDescription: Ultralabs Armenia
-path: /our-portfolio/ScaleFront
 url: http://scalefront.com/
 category: web
 heroTitle: ScaleFront

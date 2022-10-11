@@ -32,11 +32,10 @@ const PortfolioList: FC<{ filteredData: TPortfolioFilterItem[] }> = ({
             </li>
           ))}
         </ul> */}
-
         <ul className='portfolio-list'>
           {filteredData.map((item) => (
             <PortfolioItem
-              key={item.path}
+              key={item.url}
               data={item}
               tag='h2'
               titleClassName='h3'
