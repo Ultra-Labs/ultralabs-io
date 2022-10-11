@@ -1,4 +1,8 @@
 ---
+portfolioTextFliped: OurPetPolicy is an integrated solution with a complete
+  Emotional Support Animal Letter verification process and lawyer-vetted pet
+  policies for rental properties.
+heroLargeImg: /assets/1024-opp.webp
 title: OurPetPolicy
 seoTitle: Ultralabs
 seoDescription: Ultralabs Armenia
@@ -8,9 +12,6 @@ category: Application design
 heroTitle: OurPetPolicy
 heroText: The animal management solution for rentals.
 heroImg: /assets/opp.webp
-heroLargeImg: /assets/1024-opp.webp
-heroSmallImg: /assets/576-opp.webp
-heroExtraSmallImg: /assets/360-opp.webp
 portfolioTitle: OurPetPolicy
 portfolioImg: /assets/group-161.webp
 portfolioListImg: /assets/unsplash_ne0xgvktmca.webp
@@ -22,13 +23,10 @@ portfolioTextMore: OurPetPolicy helps property owners and tenants maximize
   profits by minimizing damage, exposing fraudulent ESA's, maximizing deposits
   and fees, and minimizing the time they spend dealing with pets by empowering
   them with knowledge and tools.
-portfolioTextFliped: OurPetPolicy helps property owners and tenants maximize
-  profits by minimizing damage, exposing fraudulent ESA's, maximizing deposits
-  and fees, and minimizing the time they spend dealing with pets by empowering
-  them with knowledge and tools.
+client: "Client: Landlord Tech"
+heroExtraSmallImg: /assets/360-opp.webp
 type: "Type: Application design"
 service: "Services: Design and development"
-client: "Client: Landlord Tech"
 aboutProgram: OurPetPolicy represents  a team of lawyers, landlords, and
   property managers from many different states and backgrounds working on a
   platform that aims at creating the best possible pet management experience for
@@ -38,15 +36,13 @@ aboutProgram: OurPetPolicy represents  a team of lawyers, landlords, and
 portfolioSection:
   - portfolioSectionImg: /assets/rectangle-118.webp
     portfolioSectionTitle: The challenge
-    portfolioSectionText:
-      "Modern rental practices are often accompanied by problems
+    portfolioSectionText: "Modern rental practices are often accompanied by problems
       regarding unauthorized pets, fraudulent ESA letters, poor pet
       waste-management practices, as well as pet damage and great costs.
       OurPetPolicy aims at eliminiating those problems and making pet management
       a hassle-free and easy process for everyone. "
   - portfolioSectionTitle: The solution
-    portfolioSectionText:
-      We’ve developed a versatile and easy-to-use platform for
+    portfolioSectionText: We’ve developed a versatile and easy-to-use platform for
       managing all the pet-related processes without any headache. OurPetPolicy
       allows both landlords and tenants to keep track of their property and pet
       related activities and to easily handle all the unavoidable issues that
@@ -69,4 +65,5 @@ portfolioSection:
     portfolioSectionImg: /assets/rectangle-1311.webp
 portfolioDescription: If you’re looking for non-standard solutions to standard
   problems, you’ve come to the right place!
+heroSmallImg: /assets/576-opp.webp
 ---
