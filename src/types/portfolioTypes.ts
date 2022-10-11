@@ -24,6 +24,7 @@ export type TPortfolioHomeData = {
   portfolioImg: ImageDataLike;
   portfolioTextMore: string;
   portfolioTextFliped?: string;
+  url?: string;
 };
 
 export type TPortfolioPageData = {
