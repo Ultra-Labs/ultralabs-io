@@ -6,7 +6,6 @@ heroLargeImg: /assets/1024-fr.webp
 title: FlipRide
 seoTitle: Ultralabs
 seoDescription: Ultralabs
-path: /our-portfolio/Flipride
 url: https://dealers.flipride.com/
 category: web
 heroTitle: Flipride
@@ -22,10 +21,10 @@ portfolioTextLess: Transforming how car owners sell cars
 portfolioTextMore: FlipRide was founded on the idea that there had to be a
   better way to connect dealers with interested and committed sellers and
   buyers.
-service: "Services: Design and development"
-client: "Client: FlipRide"
+service: 'Services: Design and development'
+client: 'Client: FlipRide'
 heroExtraSmallImg: /assets/360-fr.webp
-type: "Type: Application design"
+type: 'Type: Application design'
 aboutProgram: FlipRide was founded on the idea that there had to be a better way
   to connect dealers with interested and committed sellers and buyers. In a
   market where inventory matters, access to high-quality vehicles is critical,
@@ -36,15 +35,16 @@ aboutProgram: FlipRide was founded on the idea that there had to be a better way
 portfolioSection:
   - portfolioSectionImg: /assets/rectangle-118fr.webp
     portfolioSectionTitle: The challenge
-    portfolioSectionText: There has never been more competition in auto sales than
+    portfolioSectionText:
+      There has never been more competition in auto sales than
       there is now. Much of that competition is coming from online. FlipRide
       Dealer Management Platform provides an end-to-end solution for car
       dealerships of all sizes.
-  - portfolioSectionText: "For Flipride we’ve come up with a complex and
+  - portfolioSectionText: 'For Flipride we’ve come up with a complex and
       multi-functional platform as a solution offering the best experience with
       activities like building and maintaining websites, tracking the customer
       flow, analysing lead data and keeping track of the inventory allowing an
-      advanced level of synchronization. "
+      advanced level of synchronization. '
     portfolioSectionTitle: The solution
     portfolioSectionImg: /assets/rectangle-1193.webp
   - portfolioSectionText: The FlipRide Website Builder offers key dealership

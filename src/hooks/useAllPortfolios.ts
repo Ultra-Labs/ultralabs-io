@@ -1,4 +1,4 @@
-import { graphql, useStaticQuery } from "gatsby";
+import { graphql, useStaticQuery } from 'gatsby';
 
 export const useAllPortfolios = () => {
   const allPortfolios = useStaticQuery(graphql`
@@ -12,7 +12,6 @@ export const useAllPortfolios = () => {
               title
               seoTitle
               seoDescription
-              path
               url
               category
               heroTitle
