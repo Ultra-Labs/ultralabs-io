@@ -1,13 +1,13 @@
-import React, { FC } from "react";
-import SEO from "components/SEO";
-import { graphql } from "gatsby";
-import Layout from "components/Layout";
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
-import JobStyle from "assets/styles/components/careers/Job.style";
-import ContactUs from "components/ContactUs";
-import { TPortfolioPageData, TCareersSectionData } from "types/careersTypes";
-import Description from "components/Description";
-import JobDescription from "components/job-post/components/JobDescription";
+import React, { FC } from 'react';
+import SEO from 'components/SEO';
+import { graphql } from 'gatsby';
+import Layout from 'components/Layout';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
+import JobStyle from 'assets/styles/components/careers/Job.style';
+import ContactUs from 'components/ContactUs';
+import { TPortfolioPageData, TCareersSectionData } from 'types/careersTypes';
+import Description from 'components/Description';
+import JobDescription from 'components/job-post/components/JobDescription';
 
 const JobPost: FC<TPortfolioPageData> = ({ data }) => {
   const { markdownRemark } = data;
@@ -33,8 +33,8 @@ const JobPost: FC<TPortfolioPageData> = ({ data }) => {
         <GatsbyImage
           image={getImage(heroImg)}
           alt={positionTitle}
-          className="w-100"
-          loading="lazy"
+          className='w-100'
+          loading='lazy'
         />
 
         <JobDescription
@@ -43,12 +43,12 @@ const JobPost: FC<TPortfolioPageData> = ({ data }) => {
           path={path}
           positionTitle={positionTitle}
         />
-        <Description variant="blue" typography="h3" title={middlewareText} />
+        <Description variant='blue' typography='h3' title={middlewareText} />
       </JobStyle>
-      <div id="apply-link">
+      <div id='apply-link'>
         <ContactUs
           dropdownIsVisible={false}
-          formName="apply-current-job-form"
+          formName='apply-current-job-form'
           contactImg={contactImg}
           fileIsVisible={true}
           positionTitle={positionTitle}
