@@ -25,9 +25,9 @@ portfolioTextMore: ScaleFront helps clients make confident and validated
 portfolioTextFliped: ScaleFront helps clients make confident and validated
   decisions by linking them with professionals to gather superior knowledge and
   insights.
-type: "Type: Application design"
-service: "Services: Design and development"
-client: "Client: ScaleFront"
+type: 'Type: Application design'
+service: 'Services: Design and development'
+client: 'Client: ScaleFront'
 aboutProgram: ScaleFront helps clients make confident and validated decisions by
   linking them with professionals to gather superior knowledge and insights.
   It’s the world’s most complete and open recruiting platform offering a

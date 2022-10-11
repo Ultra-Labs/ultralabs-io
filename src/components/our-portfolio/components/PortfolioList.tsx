@@ -1,7 +1,7 @@
-import React, { FC } from "react";
-import PortfolioListStyle from "assets/styles/components/our-portfolio/PortfolioList.style";
-import PortfolioItem from "pages/portfolio";
-import { TPortfolioFilterItem } from "types/portfolioTypes";
+import React, { FC } from 'react';
+import PortfolioListStyle from 'assets/styles/components/our-portfolio/PortfolioList.style';
+import PortfolioItem from 'pages/portfolio';
+import { TPortfolioFilterItem } from 'types/portfolioTypes';
 // import { Link } from "gatsby";
 // import { useLocation } from "@reach/router";
 
@@ -12,7 +12,7 @@ const PortfolioList: FC<{ filteredData: TPortfolioFilterItem[] }> = ({
   // const location = useLocation();
   return (
     <PortfolioListStyle>
-      <div className="container">
+      <div className='container'>
         {/* <ul className="category-list">
           <li
             className={`category-item h3 ${!location.search ? "active" : ""}`}
@@ -33,13 +33,13 @@ const PortfolioList: FC<{ filteredData: TPortfolioFilterItem[] }> = ({
           ))}
         </ul> */}
 
-        <ul className="portfolio-list">
+        <ul className='portfolio-list'>
           {filteredData.map((item) => (
             <PortfolioItem
               key={item.path}
               data={item}
-              tag="h2"
-              titleClassName="h3"
+              tag='h2'
+              titleClassName='h3'
             />
           ))}
         </ul>

@@ -26,9 +26,9 @@ portfolioTextFliped: >-
   SimpleSell takes the hassle out of finding users’ next sales contact.
 
   It enables customers to gain access to dedicated Sales Assistants focused on getting them the right contacts every day.
-type: "Type: Application design"
-service: "Services: Design and development"
-client: "Client: SimpleSell"
+type: 'Type: Application design'
+service: 'Services: Design and development'
+client: 'Client: SimpleSell'
 aboutProgram: >+
   SimpleSell is a platform that makes finding new business simple. Innovative
   software paired with dedicated Sales Assistants revolutionizes the way you
@@ -40,12 +40,12 @@ portfolioSection:
   - portfolioSectionImg: /assets/rectangle-1183.webp
     portfolioSectionTitle: The challenge
     portfolioSectionText:
-      "46% of B2B sales reps list lead quantity and quality as
+      '46% of B2B sales reps list lead quantity and quality as
       their top challenge. 39% of a sales reps’ time is spent selling, and 42%
       of sales reps feel they don’t have enough information before making a
       call. Thus having relevant and trustworth information is a crucial factor
       in their day-to-day activities. Simplesell is a platform that came to
-      solve that. "
+      solve that. '
   - portfolioSectionText: >-
       SimpleSell takes the hassle out of finding sales contacts. With the help
       of this platform the users have a chance to gain access to dedicated Sales
@@ -65,12 +65,12 @@ portfolioSection:
     portfolioSectionTitle: Right Contacts Right Now
     portfolioSectionImg: /assets/rectangle-3103.webp
   - portfolioSectionText:
-      "Within a short period of time SimpleSell managed to boost
+      'Within a short period of time SimpleSell managed to boost
       the productivity of work for a wide range of users, speeding up their
       workflow and making it a lot more efficient and swift. As the users like
       to mention, with the help of the platform they now don’t have to spend an
       entire day searching for right contacts. Their time is too valuable to be
-      spending it activities of that sort. "
+      spending it activities of that sort. '
     portfolioSectionTitle: The results
     portfolioSectionImg: /assets/rectangle-3113.webp
 portfolioDescription: If you’re looking for non-standard solutions to standard
