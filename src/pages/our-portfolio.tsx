@@ -1,17 +1,17 @@
-import Layout from "components/Layout";
-import SEO from "components/SEO";
-import React, { FC } from "react";
-import Hero from "components/Hero";
-import PortfolioList from "components/our-portfolio/components/PortfolioList";
-import ContactUs from "components/ContactUs";
-import { usePortfolioPage } from "hooks/usePortfolioPage";
-import OurPortfolioStyle from "assets/styles/pages/OurPortfolio.style";
-import { useAboutPage } from "hooks/useAboutPage";
-import Carousel from "components/elements/Carousel/Carousel";
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
-import { useAllPortfolios } from "hooks/useAllPortfolios";
-import { TPortfolioFilterItem } from "types/portfolioTypes";
-import Description from "components/Description";
+import Layout from 'components/Layout';
+import SEO from 'components/SEO';
+import React, { FC } from 'react';
+import Hero from 'components/Hero';
+import PortfolioList from 'components/our-portfolio/components/PortfolioList';
+import ContactUs from 'components/ContactUs';
+import { usePortfolioPage } from 'hooks/usePortfolioPage';
+import OurPortfolioStyle from 'assets/styles/pages/OurPortfolio.style';
+import { useAboutPage } from 'hooks/useAboutPage';
+import Carousel from 'components/elements/Carousel/Carousel';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
+import { useAllPortfolios } from 'hooks/useAllPortfolios';
+import { TPortfolioFilterItem } from 'types/portfolioTypes';
+import Description from 'components/Description';
 
 // const scrollToRef = (ref) =>
 //   window.scrollTo({ left: 0, top: ref.current.offsetTop, behavior: "smooth" });
@@ -98,17 +98,17 @@ const OurPortfolio: FC = () => {
         />
 
         <Description
-          variant="dark"
+          variant='dark'
           title={textDescription}
-          typography="h2"
-//          link="/our-services/"
-          linkTitle="See our services"
+          typography='h2'
+          //          link="/our-services/"
+          linkTitle='See our services'
         />
       </OurPortfolioStyle>
       <ContactUs
         contactImg={contactImg}
         contactTitle={contactTitle}
-        formName="contact-us-form"
+        formName='contact-us-form'
       />
     </Layout>
   );
