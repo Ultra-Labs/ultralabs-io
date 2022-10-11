@@ -36,8 +36,8 @@ servicesList:
   - servicesText: Product design
     servicesTitle: Creative
     servicesListDescription: Design thinking is the foundation of our work. It not
-      only underlies the process of designing solutions itself but also serves
-      as ground for the work of the whole team from marketing to development,
+      only underlies the process of designing solutions but also serves as the
+      groundwork for our whole team from marketing to development.
     servicesImg: /assets/rectangle-430.webp
   - servicesText: Enterprise
     servicesTitle: Robust
