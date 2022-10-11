@@ -16,8 +16,7 @@ collections:
       - { name: title, label: Title(Exp. SimpleSell) }
       - { name: seoTitle, label: SEO Title }
       - { name: seoDescription, label: SEO Description }
-      - { name: path, label: Portfolio Path(Exp. /our-portfolio/DayTrail) }
-      - { name: url, label: Find me in config.yml }
+      - { name: url, label: Portfolio Url }
       - { name: category, label: Category }
       - { name: heroTitle, label: Hero Title }
       - { name: heroText, label: Hero Text, widget: text }

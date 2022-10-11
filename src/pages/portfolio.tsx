@@ -50,13 +50,13 @@ const PortfolioItem: FC<PortfolioItemProps> = ({
       <div className="back">
         <div className="portfolio-more-information body2">
           <p className="body2 clumb-text-6">{data?.portfolioTextFliped}</p>
-          <Link
-            to={data?.path}
-            className="portfolio-section"
-            title="learn more"
-          >
+            <a
+             href={data.url}
+             target="_blank"
+             className="portfolio-section w-100"
+           >
             Learn more
-          </Link>
+            </a>
         </div>
       </div>
     </PortfolioStyle>
