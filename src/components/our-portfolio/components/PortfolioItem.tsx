@@ -6,11 +6,13 @@ type PortfolioItemProps = {
   portfolioTitle: string;
   portfolioTextMore: string;
   portfolioListImg: ImageDataLike;
+  path?: string;
   url: string;
 };
 const PortfolioItem: FC<PortfolioItemProps> = ({
   portfolioTitle,
   url,
+  path,
   portfolioTextMore,
   portfolioListImg,
 }) => {
