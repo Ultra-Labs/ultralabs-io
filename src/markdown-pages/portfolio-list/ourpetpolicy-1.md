@@ -6,7 +6,6 @@ heroLargeImg: /assets/1024-opp.webp
 title: OurPetPolicy
 seoTitle: Ultralabs
 seoDescription: Ultralabs Armenia
-path: https://landlordtech.com/
 url: https://landlordtech.com/
 category: Application design
 heroTitle: OurPetPolicy
@@ -23,10 +22,10 @@ portfolioTextMore: OurPetPolicy helps property owners and tenants maximize
   profits by minimizing damage, exposing fraudulent ESA's, maximizing deposits
   and fees, and minimizing the time they spend dealing with pets by empowering
   them with knowledge and tools.
-client: "Client: Landlord Tech"
+client: 'Client: Landlord Tech'
 heroExtraSmallImg: /assets/360-opp.webp
-type: "Type: Application design"
-service: "Services: Design and development"
+type: 'Type: Application design'
+service: 'Services: Design and development'
 aboutProgram: OurPetPolicy represents  a team of lawyers, landlords, and
   property managers from many different states and backgrounds working on a
   platform that aims at creating the best possible pet management experience for
@@ -36,13 +35,15 @@ aboutProgram: OurPetPolicy represents  a team of lawyers, landlords, and
 portfolioSection:
   - portfolioSectionImg: /assets/rectangle-118.webp
     portfolioSectionTitle: The challenge
-    portfolioSectionText: "Modern rental practices are often accompanied by problems
+    portfolioSectionText:
+      'Modern rental practices are often accompanied by problems
       regarding unauthorized pets, fraudulent ESA letters, poor pet
       waste-management practices, as well as pet damage and great costs.
       OurPetPolicy aims at eliminiating those problems and making pet management
-      a hassle-free and easy process for everyone. "
+      a hassle-free and easy process for everyone. '
   - portfolioSectionTitle: The solution
-    portfolioSectionText: We’ve developed a versatile and easy-to-use platform for
+    portfolioSectionText:
+      We’ve developed a versatile and easy-to-use platform for
       managing all the pet-related processes without any headache. OurPetPolicy
       allows both landlords and tenants to keep track of their property and pet
       related activities and to easily handle all the unavoidable issues that
@@ -57,10 +58,10 @@ portfolioSection:
       and platform management tools.
 
       When a tenant leaves and the damage from their pet is assessed to be hundreds of dollars more than their security deposit, most landlords understand that it is not worth taking them to court, where they could end up spending more money than they would recoup. By collecting pet deposits the landlords have more money to help cover the damage left by their animals.
-  - portfolioSectionText: "With the help of OPP the landlords have managed to
+  - portfolioSectionText: 'With the help of OPP the landlords have managed to
       dramatically decrease their costs and money wasted on pet damage and
       secured a more convenient and stress free way of handling all the
-      rent-related tasks. "
+      rent-related tasks. '
     portfolioSectionTitle: The outcome
     portfolioSectionImg: /assets/rectangle-1311.webp
 portfolioDescription: If you’re looking for non-standard solutions to standard
