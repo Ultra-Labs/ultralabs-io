@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   #name: github
-  repo: Ultra-Labs/ultralabs-io
-  branch: main
+  #repo: Ultra-Labs/ultralabs-io
+  #branch: main
 
 media_folder: static/assets
 public_folder: /assets
