@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   #name: github
-  repo: Ultra-Labs/website
+  repo: Ultra-Labs/ultralabs-io
   branch: main
 
 media_folder: static/assets
