@@ -52,7 +52,7 @@ aboutLargeImg: /assets/1024-home-page.webp
 heroSmallImg: /assets/hero-1920.webp
 ourText: Great people make great teams. You trust us with your idea and we make
   it happen in the most creative and out-of-the-box manner possible.
-ourImg: /assets/our_people.jpg
+ourImg: /assets/our_people_us.jpg
 contactTitle: Contact us
 aboutExtraSmallImg: /assets/360-home-page.webp
 ---
