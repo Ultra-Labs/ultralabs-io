@@ -22,16 +22,15 @@ portfolioTextLess: "DayTrail is the one-stop-shop for all of kinds of
   recreational vehicle rental needs. "
 portfolioTextMore: DayTrail is the one-stop-shop for all of kinds of
   recreational vehicle rental needs. Insurance-backed and adventure-packed!
-service: "Services: Design and development"
 client: "Client: DayTrail"
 heroExtraSmallImg: /assets/360-dt.webp
 type: "Type: Application design"
-aboutProgram: DayTrail is the one-stop-shop for all of kinds of recreational
-  vehicle rental needs. Insurance-backed and adventure-packed! Like all P2P
-  rental platforms they knew they had to make a system that owners would feel
-  confident in posting their vehicles to rent, and renters would know that they
-  were getting great vehicles ready to ride. Making their next adventure a
-  blast, time, and time again.
+service: "Services: Design and development"
+aboutProgram: DayTrail is a one-stop-shop for all recreational rental needs.
+  Like other peer to peer rental platforms, DayTrail wanted to create a place
+  where both owners and renters felt comfortable and confident renting vehicles.
+  DayTrail is insurance-backed and adventure-packed, so you never have to worry
+  about having a blast!
 portfolioSection:
   - portfolioSectionImg: /assets/rectangle-1182.webp
     portfolioSectionTitle: The challenge
