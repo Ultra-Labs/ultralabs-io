@@ -27,40 +27,39 @@ client: "Client: Landlord Tech"
 heroExtraSmallImg: /assets/360-opp.webp
 type: "Type: Application design"
 service: "Services: Design and development"
-aboutProgram: OurPetPolicy represents  a team of lawyers, landlords, and
-  property managers from many different states and backgrounds working on a
-  platform that aims at creating the best possible pet management experience for
-  the landlords and tenants. In just a few minutes, they can add their rental
-  properties, customize a lawyer-vetted policy for their state, and send a
-  contract to their tenants for an electronic signature.
+aboutProgram: OurPetPolicy represents a team of landlords, property managers,
+  and lawyers from many different backgrounds working on a platform that gives
+  the best possible pet management experience for both landlords and tenants. In
+  just a few minutes, users can add their rental properties, customize a
+  lawyer-vetted policy for their state, and send a contract to their tenants for
+  an electronic signature.
 portfolioSection:
   - portfolioSectionImg: /assets/rectangle-118.webp
     portfolioSectionTitle: The challenge
-    portfolioSectionText: "Modern rental practices are often accompanied by problems
-      regarding unauthorized pets, fraudulent ESA letters, poor pet
-      waste-management practices, as well as pet damage and great costs.
-      OurPetPolicy aims at eliminiating those problems and making pet management
-      a hassle-free and easy process for everyone. "
+    portfolioSectionText: Modern rental practices are often accompanied by problems
+      such as unauthorized pets, fraudulent Emotional Support Animal (ESA)
+      letters, poor pet waste-management practices, as well as pet damage costs.
+      OurPetPolicy eliminates those problems and makes pet management a
+      hassle-free and easy process for everyone.
   - portfolioSectionTitle: The solution
-    portfolioSectionText: We’ve developed a versatile and easy-to-use platform for
+    portfolioSectionText: We developed a versatile and easy-to-use platform for
       managing all the pet-related processes without any headache. OurPetPolicy
       allows both landlords and tenants to keep track of their property and pet
-      related activities and to easily handle all the unavoidable issues that
-      arise when renting a house and moving in with pets. The platform allows to
-      resgister pets, keep track of their medical records and handle issues like
-      waste management and damage with a single click.
+      related activities and to easily handle issues that arise when renting
+      with pets. The platform allows tenants to register pets, keep track of
+      their medical records and handle issues like waste management and damage
+      with a single click.
     portfolioSectionImg: /assets/rectangle-119.webp
   - portfolioSectionImg: /assets/rectangle-310.webp
     portfolioSectionTitle: Happy Tenants, Happy Property Management
-    portfolioSectionText: >-
-      The OPP Platform is easy to implement, with easy to use on-boarding tools
-      and platform management tools.
-
-      When a tenant leaves and the damage from their pet is assessed to be hundreds of dollars more than their security deposit, most landlords understand that it is not worth taking them to court, where they could end up spending more money than they would recoup. By collecting pet deposits the landlords have more money to help cover the damage left by their animals.
-  - portfolioSectionText: "With the help of OPP the landlords have managed to
-      dramatically decrease their costs and money wasted on pet damage and
-      secured a more convenient and stress free way of handling all the
-      rent-related tasks. "
+    portfolioSectionText: OurPetPolicy is easy to implement and includes onboarding
+      and platform management tools. Having a secure, lawyer-vetted pet policy
+      and knowing what, and where, animals are residing in your properties can
+      have a direct impact on your bottom line. Keep your tenants happy and your
+      property safe with OurPetPolicy.
+  - portfolioSectionText: With the help of OurPetPolicy landlords have managed to
+      dramatically decrease their costs from pet damage and secured a more
+      convenient and stress-free way of handling all pet-related tasks.
     portfolioSectionTitle: The outcome
     portfolioSectionImg: /assets/rectangle-1311.webp
 portfolioDescription: If you’re looking for non-standard solutions to standard
